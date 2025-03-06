@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/695ab91e-a884-4d91-9a4f-660e6db8b7f5)
 
-ในส่วนนี้เราจะนำ choice ไป concatenate กับ random bit จากนั้นนำมาใช้เป็น input เพื่อนำไปเข้า hash function แล้วเราจะนำค่าที่เป็นผลลัพธ์มาใช้ในการ commit ซึ่งเราจะแก้ function จากผลลัพธ์ไปหา input ได้ยาก
+ในส่วนนี้เราจะนำ choice ไป concatenate กับ random bit จากนั้นนำมาใช้เป็น input เพื่อนำไปเข้า hash function แล้วเราจะนำค่าที่เป็นผลลัพธ์มาใช้ในการ commit ซึ่งเราจะแก้ hash function จากผลลัพธ์ไปหา input ได้ยาก
 
 ## อธิบายโค้ดส่วนที่จัดการกับความล่าช้าที่ผู้เล่นไม่ครบทั้งสองคนเสียที
 ![image](https://github.com/user-attachments/assets/3fffb137-8a24-4ebf-94e3-3d210fe36ae6)
